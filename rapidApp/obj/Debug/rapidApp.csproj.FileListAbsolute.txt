@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\rapidApp\rapidApp\bin\Debug\rapidApp.exe.config
+C:\Users\Monster\source\repos\rapidApp\rapidApp\bin\Debug\rapidApp.exe
+C:\Users\Monster\source\repos\rapidApp\rapidApp\bin\Debug\rapidApp.pdb
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.Form1.resources
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.Properties.Resources.resources
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.exe
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.pdb
+C:\Users\Monster\source\repos\rapidApp\rapidApp\bin\Debug\admin.csv
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.Form2.resources
+C:\Users\Monster\source\repos\rapidApp\rapidApp\bin\Debug\video.csv
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.Form3.resources
+C:\Users\Monster\source\repos\rapidApp\rapidApp\obj\Debug\rapidApp.Form4.resources
